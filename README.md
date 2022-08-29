@@ -1,10 +1,10 @@
 # Google Books
-
-Google Books was a project I decided to do to see how to get books from a website with all it's info.
+Created a web application to search for books from the Google Books API with keyword searching functionality
 
 # Motivation
-
+My first real application working with API's
 
 # APIs Used
+[Google Books](https://developers.google.com/books)
 
 # Demo
